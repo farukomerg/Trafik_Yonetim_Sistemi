@@ -1,0 +1,6 @@
+@Trafik_Yonetim_Sistemi_HostAddress = http://localhost:5186
+
+GET {{Trafik_Yonetim_Sistemi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
