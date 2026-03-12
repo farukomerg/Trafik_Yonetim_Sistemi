@@ -1,3 +1,16 @@
 <Solution>
+  <Folder Name="/Dispatcher/" />
+  <Folder Name="/Dispatcher/src/">
+    <Project Path="Dispatcher.Api/Dispatcher.Api.csproj" Id="7dfe04f7-abff-42d3-937e-be2969a2ec83" />
+    <Project Path="Dispatcher.Application/Dispatcher.Application.csproj" Id="71e59c12-a741-4569-978e-1b26f87527f3" />
+    <Project Path="Dispatcher.Infrastructure/Dispatcher.Infrastructure.csproj" Id="31fd6f96-0696-40c8-8bd4-9394b1237054" />
+  </Folder>
+  <Folder Name="/Dispatcher/tests/">
+    <Project Path="Dispatcher.IntegrationTests/Dispatcher.IntegrationTests.csproj" Id="07307313-cd08-46d5-b1a6-6348392eb890" />
+    <Project Path="Dispatcher.UnitTests/Dispatcher.UnitTests.csproj" Id="788956e6-391b-4d60-87ae-72a878675bdc" />
+  </Folder>
+  <Folder Name="/LoadTests/" />
+  <Folder Name="/Monitoring/" />
+  <Folder Name="/Services/" />
   <Project Path="Trafik_Yonetim_Sistemi/Trafik_Yonetim_Sistemi.csproj" />
 </Solution>
